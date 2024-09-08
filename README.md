@@ -24,7 +24,6 @@ python main_twostream.py
 ### Dataset
 
 - [Dataset (ARID)](https://xuyu0010.github.io/arid.html)
-
 - [Dataset (ARID_UG2_2.1)](https://github.com/xuyu0010/ARID_UG2_2.1)
 
 
@@ -32,7 +31,6 @@ python main_twostream.py
 ### Related Repositories
 
 - [ARID_v1](https://github.com/xuyu0010/ARID_v1)
-
 - [SlowFast](https://github.com/facebookresearch/SlowFast)
 - [pytorch-i3d](https://github.com/piergiaj/pytorch-i3d)
 
